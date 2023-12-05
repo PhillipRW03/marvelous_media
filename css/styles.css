@@ -16,6 +16,11 @@ h1 {
     text-shadow: 2px 3px grey;
 }
 
+.current{
+    color:rgb(255, 255, 255);
+    background-color: #e71616;
+}
+
 span {
     font-family: 'Pacifico', cursive;
     font-weight: bold;
